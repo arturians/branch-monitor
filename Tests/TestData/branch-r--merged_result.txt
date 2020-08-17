@@ -1,0 +1,12 @@
+﻿  origin/AutofacTestOnWebAdmin
+  origin/ChangeLoadXmlinPatching
+  origin/DcWebAsync2
+  origin/DiffLibVersionsTest
+  origin/FixGoogleDaemonPullDzb
+  origin/FixingNewApi
+  origin/HEAD -> origin/master
+  origin/IikoUsingDlls
+  origin/MetricaStatAdd
+  origin/RemoveExternUpdaterTest
+  origin/WbdHeadLines
+  origin/master

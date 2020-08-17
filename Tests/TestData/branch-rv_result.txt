@@ -1,0 +1,67 @@
+﻿  origin/472framework                      da64975cd6 updated framework version to 4.7.2
+  origin/AccTestsParrallel                 ef91af6227 AccTestsParallel: fix after rebase (CR-1469)
+  origin/AsyncDdApiVol2                    5ca522aeed AsyncDdApi2. Test fix. DC-4703
+  origin/AtakMLFDelay                      118aecec11 AtakMLFDelay: review (CR-1395)
+  origin/AuchanVersionUpdateAfterTwenty    17591b58ae AuchanVersionUpdateAfterTwenty: update version for auchan and pilot
+  origin/AuthorizationRefactoring          66d1d4afe1 AuthorizationRefactoring: fixing reference checker test (DC-4719)
+  origin/AutofacCrutchForDCApi             e106e813b0 AutofacCrutchForDCApi: cleanup
+  origin/AutofacInfectConsole              f99f1c2afc raw, Not FIXED! new hierarchy
+  origin/AutofacTestOnWebAdmin             75a5182e66 AutofacTestOnWebAdmin: review (CR-1467)
+  origin/BaltikaEdifactOrders              740d01b80f BaltikaEdifactOrders: review (CR-1452)
+  origin/BoxFeaturesRemoveObsoletes        ad9aad2ccd BoxFeaturesRemoveObsoletes: removed obsolete
+  origin/BugGenerating552                  5cb904594d BugGenerating552: ╨┐╨╛╨┤╨╜╤П╤В╨░ ╨▓╨╡╤А╤Б╨╕╤П DiadocSDK (DC-4804)
+  origin/ChangeLoadXmlinPatching           99d3cffcf3 ╤З╤В╨╡╨╜╨╕╨╡ ╨╕ ╨┐╤А╨░╨▓╨║╨░ xml ╨▓╨╜╨╡ ╨╖╨░╨▓╨╕╤Б╨╕╨╝╨╛╤Б╤В╨╕ ╨╛╤В ╨║╨╛╨┤╨╕╤А╨╛╨▓╨║╨╕ + ╨╛╤В╨║╨╗╤О╤З╨╡╨╜╨╕╨╡ ╨┐╨░╤В╤З╨╕╨╜╨│╨░ ╨┐╨╛ ╨┐╨╛╨╗╤О ╨╕╨╖ ╨║╨╛╨╜╤Д╨╕╨│╨░
+  origin/CleanupTool                       4b5a0e487c CleanupTool. ╨г╤В╨░╤Й╨╡╨╜ ╨║╨░╤В╨░╨╗╨╛╨╢╨╜╤Л╨╣ CodeCleanupRunner
+  origin/ClientReleaseScript               1bf530de70 ClientReleaseScript: release script for team city (DC-4796)
+  origin/CloudAuchanN16                    606d3bcfc1 CloudAuchanN16: aggregating revert, reference fixes, autofac fixes, Exporting filter improvements (CR-1400)
+  origin/CodeStyleConvetions               0544532ae7 Replace "" to string.Empty
+  origin/ConfigUpdateUtils                 297c926760 ConfigUpdateUtils: add utils (DC-none)
+  origin/ConsoleAutofac                    fb01c83c3c ConsoleAutofac: fix after rebase (CR-1359)
+  origin/CustomResharperRules              f937211c70 CustomResharperRules. ╨Ш╤Б╨║╨╗╤О╤З╨╡╨╜╨╕╨╡ ╨░╨╜╨░╨╗╨╕╨╖╨░ cshtml ╨╜╨░ TeamCity
+  origin/DcWebAsync2                       f3c07ac3df AsyncDdApi. Async IOrganizationProvider. ╨з╨░╤Б╤В╤М ╤В╤А╨╡╤В╤М╤П
+  origin/DeleteProtocols                   a0ecf4967c DeleteProtocols. ╨г╨┤╨░╨╗╨╡╨╜╨╕╨╡ ╨┐╤А╨╛╤В╨╛╨║╨╛╨╗╨╛╨▓ ╨┐╤А╨╕ ╤Г╨┤╨░╨╗╨╡╨╜╨╕╨╕ ╨║╨╛╨╜╨╜╨╡╨║╤В╨╛╤А╨░. DC-4790
+  origin/DelivererLightSaveWarnFix         f7874e48af DelivererLightSaveWarnFix: ╨┤╨╛╨▒╨░╨▓╨╕╨╝ ╨║╨╛╨╜╤В╨╡╨╜╤В╨░, ╤З╤В╨╛╨▒╤Л ╨▓╨╛ ╨▓╤А╨╡╨╝╤П ╤Б╨╛╤Е╤А╨░╨╜╨╡╨╜╨╕╤П ╨╛╤И╨╕╨▒╨║╨╕ ╨╜╨╡ ╤Г╨┐╨░╤Б╤В╤М ╨┐╤А╨╕ ╤Б╨╛╤Е╤А╨░╨╜╨╡╨╜╨╕╨╕ ╨┐╤Г╤Б╤В╨╛╨│╨╛ ╨║╨╛╨╜╤В╨╡╨╜╤В╨░
+  origin/DepartmentFilterConfigAdd         7c3f7eb8c4 DepartmentFilterConfigAdd: changed config to v3 for department filter and navigation in chain setting (DC-4772)
+  origin/DiffLibVersionsTest               ee2d45b29d DiffLibVersionsTest: review (CR-1457)
+  origin/DocumentStorageRefactoring        5e4bab07bd DocumentStorageRefactoring: partial aggregate support in ActivityHandler (DC-4782)
+  origin/DotNet472                         3a0fca64c3 DotNet472: fixes (CR-1463)
+  origin/EKtoCC                            806fce9978 EKtoCC: ╨Р╨┐╨┤╨╡╨╣╤В╨╡╤А ╨╖╨░╨╕╨│╨╜╨╛╤А╨╡╨╜ ╨▓ ╤В╨╡╤Б╤В╨░╤Е ╨╜╨░ AssemblyName (DC-4781)
+  origin/EdiDllUpdates                     fa0345ed42 EdiDllUpdates: ╤Г╨┤╨░╨╗╨╕╨╗ ╨╜╨╡╨╜╤Г╨╢╨╜╤Л╨╡ dll, ╨╛╨▒╨╜╨╛╨▓╨╕╨╗ ╨╜╤Г╨╢╨╜╤Л╨╡ (CR-1463)
+  origin/ExporterPacketModel               aa755405f3 ExporterPacketModel: retail review (DC-4733)
+  origin/FeatureForInterconnection         58cfa4e38c FeatureForInterconnection: url ╨┤╨╗╤П ╨▒╤Л╤Б╤В╤А╨╛╨│╨╛ ╨┤╨╛╤Б╤В╤Г╨┐╨░ ╨║ ╨┤╨╛╨║╤Г╨╝╨╡╨╜╤В╤Г ╨╕╨╖ ╨╗╨╛╨│╨╛╨▓ (CR-1450)
+  origin/FixApiKeys                        5e579a7e50 CommonTests: fix piClientId not found for process JetBrains.ReSharper.TaskRunner.CLR45 - like errors for local test runner
+  origin/FixFsClient                       fae27d9ac6 FixFsClient: fix GetParentDirectory behavior for root folder
+  origin/FixGoogleDaemonPullDzb            4e13743fc1 FixGoogleDaemonPullDzb: ╨┐╨╛╤Д╨╕╨║╤Б╨╕╨╗ ╨╜╨╡╤А╨░╨▒╨╛╤В╨░╤О╤Й╤Г╤О ╨▓╤Л╨│╤А╤Г╨╖╨║╤Г ╨╕╨╖ ╨Ф╨ж╨С
+  origin/FixSelenium                       2952781e97 FixSelenium: fixing DCWeb test
+  origin/FixingNewApi                      ee76090fb8 FixingNewApi: fixes
+  origin/GlobalTimeline                    3f110f9cf1 GlobalTimeline: Review. Encoding (DC-4784)
+  origin/HEAD                              -> origin/master
+  origin/IgnoreForwardingTests             56bb7bdfe2 IgnoreForwardingTest: ╨╖╨░╨╕╨│╨╜╨╛╤А╨╕╨╗
+  origin/MarkingJsonToXml                  1b93a7f2fb MarkingJsonToXml: ╤Д╨╕╨║╤Б ╨┐╤А╨╛╨▒╨╗╨╡╨╝╤Л ╤Б╨╛╤Е╤А╨░╨╜╨╡╨╜╨╕╤П ╨║╨╛╨┤╨╕╤А╨╛╨▓╨║╨╕ ╨┤╨╗╤П json (DC-4740)
+  origin/MarkingSendingToApi               ed2c5fc16f MarkingSendingToApi: ╨д╨╕╨║╤Б╤Л ╨┐╨╛╤Б╨╗╨╡ ╤А╨╡╨▒╤Н╨╣╨╖╨░ (DC-4768)
+  origin/MetricaStatAdd                    6cb8caa729 MetricaStatAdd: added FromDiadocBoxId ToDiadocBoxId to metrica (DC-4780)
+  origin/NestleExporterHotFix2             0ee55605e0 try speed up processing
+  origin/PdfSharpLibUpdate                 f13971d1a8 PdfSharpLibUpdate: more test for detect hungs, fix dir fail on tc (CR-1409)
+  origin/PortalClientWithApiKey            c65a034c87 PortalClientWithApiKey: fix after sso refectoring rebase (CR-1351)
+  origin/PostProcessingDaemonToHandler     0af6ab76be PostProcessingDaemonToHandler: ╤В╨╡╤Б╤В╤Л ╨╜╨░ EdiMapper (DC-4707)
+  origin/PrePatchingResultFix              7a12417274 PrePatchingResultFix: revert some versions
+  origin/PrepareDocflowStatusProviderTests 9aa0967a3b PrepareDocflowStatusProviderTests: ╨┐╨╡╤А╨╡╨▓╨╛╨┤ ╤В╨╡╤Б╤В╨╛╨▓ (DC-4752)
+  origin/QueueRouting                      43f1d518e4 QueueRouting. fixes after rebase (DC-4067)
+  origin/RawStyleConvetions                f30cd96e45 try write naming convention rules for humanizing reading and applying on writing or reviewing code
+  origin/RemoveExternUpdaterTest           c2864bac4b Removed 2 tests
+  origin/RepeatDeferedTasksRework          74a5a419d1 RepeatDeferedTasksRework: MySql scripts update (CR-1464)
+  origin/RevocationStatusesFiltering       fffb289d31 RevocationStatusesFiltering: fixed ResolutionStatusType for signing (DC-4729)
+  origin/Tmp2                              6036ad6ae2 Increase timeout total waiting 2
+  origin/TmpNeslteKsfCRI                   6958b8f978 more PDF's - but it's FAIL
+  origin/TokenTestFix                      ec10eb000e TokenTestFix: fix
+  origin/Twenty                            8e8e9348c3 Twenty: up Reporter version
+  origin/UpVersionsUtil                    f01a0ee6a3 UpVersionsUtil: util (DC-none)
+  origin/WbdHeadLines                      8915d6344b WbdHeadLines: fix after rebase (CR-1421)
+  origin/WimmBillDannTests                 6f1e165fea WimmBillDannTests: fix after rebase(CR-1472)
+  origin/X5Cat                             736dbdb01d X5Cat: review (CR-1425)
+  origin/X5RepeatTasks                     fc0813b183 X5RepeatTasks: review (CR-1474)
+  origin/XpathExtensionCheckLogic          16241a00ac XpathExtensionCheckLogic: fixed xpath node-set handling (DC-4728)
+  origin/XsltExtensionsInXPath             1752d99879 XsltExtensionsInXPath: ╨Э╨╛╨▓╨░╤П ╨║╨░╤В╨╡╨│╨╛╤А╨╕╤П ╨╛╤И╨╕╨▒╨║╨╕ (DC-4728)
+  origin/branchForTest                     4d6409c7b6 test
+  origin/master                            0913ea3ee9 ╨╛╤И╨╕╨▒╨║╨░ ╤И╨╕╤Д╤А╨╛╨▓╨░╨╜╨╕╤П ╨У╤Г╨│╨╗╨░ ╨╜╨╡ ╨║╨╗╨╕╨╡╨╜╤В╤Б╨║╨░╤П
+  origin/testBranch                        fc8d12a651 ╨┐╨╛╨┐╤Л╤В╨║╨░ ╨┐╨╛╤З╨╕╨╜╨╕╤В╤М ╨┐╨╛╨╡╤Е╨░╨▓╤И╤Г╤О ╨║╨╛╨┤╨╕╤А╨╛╨▓╨║╤Г
